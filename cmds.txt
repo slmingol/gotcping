@@ -1,0 +1,1 @@
+docker run -it --rm ghcr.io/slmingol/gotcping:0.0.4-alpha -count 10 -host 8.8.8.8 -port 53
