@@ -1,0 +1,2 @@
+3cdc63865628beeab5195210db3275dba519a416fffc4bfb6e95635f72d08fce  gotcping_v0.0.0-next_Darwin_x86_64.tar.gz
+e07e318a8afd6f07a52732bb5dd025f13b23ed0c889273167b11b4019a1eb92a  gotcping_v0.0.0-next_Linux_x86_64.tar.gz
