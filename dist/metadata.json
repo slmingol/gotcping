@@ -1,1 +1,1 @@
-{"project_name":"gotcping","tag":"0.0.1-alpha","previous_tag":"","version":"0.0.1-alpha-next","commit":"cc8f354d3e071ba16f80ddca90ee280243e6110c","date":"2023-03-24T00:43:14.96748-04:00","runtime":{"goos":"darwin","goarch":"arm64"}}
+{"project_name":"gotcping","tag":"0.0.2-alpha","previous_tag":"0.0.1-alpha","version":"0.0.2-alpha","commit":"b14689722f18bd54bd5c3ebc347b49b69578e6ca","date":"2023-03-24T00:45:41.132492-04:00","runtime":{"goos":"darwin","goarch":"arm64"}}

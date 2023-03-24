@@ -5,15 +5,15 @@
 class Gotcping < Formula
   desc "Yet another tcping for golang."
   homepage "https://www.github.com/slmingol/gotcping"
-  version "0.0.1-alpha-next"
+  version "0.0.2-alpha"
   license "MIT"
 
   depends_on "go"
   depends_on "coreutils"
 
   on_macos do
-    url "https://github.com/slmingol/gotcping/releases/download/0.0.1-alpha/gotcping_0.0.1-alpha-next_Darwin_x86_64.tar.gz"
-    sha256 "70816b96fc972922be908dfd4e990ab089baff3b59d571ed106367efcd954582"
+    url "https://github.com/slmingol/gotcping/releases/download/0.0.2-alpha/gotcping_0.0.2-alpha_Darwin_x86_64.tar.gz"
+    sha256 "74bd6b83273bf9f96cd7634ba6c9de12eeb361752ca00606325bc5de746ab2ca"
 
     def install
       bin.install "gotcping"
@@ -32,8 +32,8 @@ class Gotcping < Formula
 
   on_linux do
     if Hardware::CPU.intel?
-      url "https://github.com/slmingol/gotcping/releases/download/0.0.1-alpha/gotcping_0.0.1-alpha-next_Linux_x86_64.tar.gz"
-      sha256 "73082380046e3b0eaf81102f6ab88809e47962c87c0471dd30783215e03c4549"
+      url "https://github.com/slmingol/gotcping/releases/download/0.0.2-alpha/gotcping_0.0.2-alpha_Linux_x86_64.tar.gz"
+      sha256 "0ada67c2f086cf872ef4755be6df4736a2587a67ad2987d57d43cb1f667c81d3"
 
       def install
         bin.install "gotcping"
