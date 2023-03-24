@@ -1,2 +1,0 @@
-0ada67c2f086cf872ef4755be6df4736a2587a67ad2987d57d43cb1f667c81d3  gotcping_0.0.2-alpha_Linux_x86_64.tar.gz
-74bd6b83273bf9f96cd7634ba6c9de12eeb361752ca00606325bc5de746ab2ca  gotcping_0.0.2-alpha_Darwin_x86_64.tar.gz
