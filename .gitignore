@@ -1,1 +1,4 @@
 gotcping
+dist/
+main*
+version.properties
